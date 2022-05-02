@@ -15,18 +15,23 @@ Focusing further on the 671 campaigns for plays in the US:
 
 ### Analysis of Outcomes Based on Launch Date
 The first contributing factor for successful campaigns analyzed was the timing of campaign launch. Looking at all theater campaigns by launch month we find:
-![Launch Date](
+![Launch Date](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+The second contributing factor for successful campaigns analyzed was the campaign goal. Looking at all theater campaigns by financial goal bands we find:
+![Goals](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
+While the Kickstarter data was fairly extensive, it is somewhat dated with the campaigns ranging 2010 to 2017. The economy and consumer's giving tendencies may have changed significantly since 2017.
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- The majority of theater campaigns are launched in the Spring and early Summer. The number of failed campaigns remains fairly consistent throughout the year. However, successful campaigns see a significant spike from April to May and slowly decline over the summer.
 
-- What can you conclude about the Outcomes based on Goals?
+- The prime window for launching a successful campaign is from April to June with May being the preferred launch month. May has the largest difference (# and %) between successful and failed campaigns. May has the highest number (111) and percentage (67%) of successful campaigns compared to 31% failure rate in May. June would be a good second choice for launch date with 65% success rate compared to 32% failure.
 
-- What are some limitations of this dataset?
+- Theater campaigns are more successful when their goals are below $5k. Campaigns with goals below $5k are the most successful at 73-75% with a fail rate of 24-27%. Campaigns with goals from $5k - $15k are still successful more than 50% of the time but have a failure rate of 45%. A campaign goal of $5,000 maximizes the estimated amount raised while  minimizing the risk of failure.
 
-- What are some other possible tables and/or graphs that we could create?
+- As mentioned above, the dataset from Kickstarter is dated and more recent campaign data would be beneficial to determine current fundraising campaign statistics in the current economic environment. Additional data point of theater company/playwrite might help determine if the person launching the kickstarter campaign is a contributing factor toward success or failure.
+
+- Dividing the goal data into smaller ranges might help hone in on an optimal goal amount. Data is concentrated below $10k and dividing into $1k - $2k bands might be insightful while not keeping the sample size large enough to be significant.
