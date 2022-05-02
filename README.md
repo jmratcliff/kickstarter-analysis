@@ -11,7 +11,7 @@ In order to focus on relevant data, we first focused on the 912 theater campaign
 ![Category Outcomes](https://github.com/jmratcliff/kickstarter-analysis/blob/00080df93499caea36e8439a698ed7367077a541/Categories.png)
 
 Focusing further on the 314 campaigns for plays in the US:
-![Subcategory Outcomes](Subcategory.png)
+![Subcategory Outcomes]()
 
 ### Analysis of Outcomes Based on Launch Date
 
