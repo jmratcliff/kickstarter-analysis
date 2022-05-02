@@ -7,6 +7,8 @@ Renowned playwright Louise is using Crowdfunding to fund her new play *Fever*. S
 Analyze Kickstarter historical fundraising data to identify specific factors that influence successful campaigns. Allow Louise to incorporate the data analysis in order to plan and set up her own campaign for success.
 
 ## Analysis and Challenges
+In order to focus on relevant data, we first focused on theater campaigns in the US.
+![Category Outcomes](
 
 ### Analysis of Outcomes Based on Launch Date
 
